@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project explores patterns in residential electricity usage across the United States, with a focus on how **home energy assistance programs** impact consumption. Using a combination of **exploratory data analysis**, **causal inference**, and **Bayesian hierarchical modeling**, we examine geographic variation in energy usage at both the **state** and **region** levels.
+This project explores patterns in residential electricity usage across the United States, with a focus on how **home energy assistance programs** impact consumption. Using a combination of **exploratory data analysis**, **causal inference**, and **Bayesian hierarchical modeling**, we examine geographic variation in energy usage at both the state and region levels.
 
 Our goal is to identify causal relationships and uncover latent structure in energy consumption that may be influenced by socioeconomic factors and federal energy programs.
 
